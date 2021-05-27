@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ash Ketchup",
+        "region": "Kalos",
+        "pokemon": [
+        "Pikachu",
+        "Charmander",
+        "Squirtle"
+        ]
+    },
+        {
+        "id": 2,
+        "nombre": "Alexander Kotokevich",
+        "region": "Pueblo paleta",
+        "pokemon": [
+        "Pikachu",
+        "Zubat",
+        "Clefable"
+        ]
+    },
+        {
+        "id": 3,
+        "nombre": "Bruno Diaz",
+        "region": "Kanto",
+        "pokemon": [
+        "Magnar",
+        "Swadloon",
+        "Hattere"
+        ]
+    },
+        {
+        "id": 4,
+        "nombre": "Kalm Lazcano",
+        "region": "Kanto",
+        "pokemon": [
+        "Pikachu",
+        "Charmander",
+        "Squirtle"
+        ]
+    }
+]
