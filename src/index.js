@@ -90,6 +90,10 @@ app.get("/agregarPokemon/:entrenadorID", function (request, response) {
         return response.end('Ingresa un pokemon');
     }
 
+    if (!entrenadorID) {
+        return response.end('Ingresa el ID de un entrenador pokemon');
+    }
+
     pokemon.map((entrenador) => {
         if (entrenador.id === entrenadorID) {
             entrenador.pokemon.push(pokemonName);
